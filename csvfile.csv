@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo "$1"
+=======
+echo "$muskan"
+>>>>>>> feature1
 
